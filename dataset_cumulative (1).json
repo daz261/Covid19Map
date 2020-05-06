@@ -1,0 +1,3074 @@
+[
+ {
+   "CNTRYNAME": "Aruba",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Antigua and Barbuda",
+   "confirmed": "558"
+ },
+ {
+   "CNTRYNAME": "Afghanistan",
+   "confirmed": "19290"
+ },
+ {
+   "CNTRYNAME": "Algeria",
+   "confirmed": "55923"
+ },
+ {
+   "CNTRYNAME": "Azerbaijan",
+   "confirmed": "28671"
+ },
+ {
+   "CNTRYNAME": "Albania",
+   "confirmed": "14113"
+ },
+ {
+   "CNTRYNAME": "Armenia",
+   "confirmed": "31191"
+ },
+ {
+   "CNTRYNAME": "Andorra",
+   "confirmed": "18181"
+ },
+ {
+   "CNTRYNAME": "Angola",
+   "confirmed": "515"
+ },
+ {
+   "CNTRYNAME": "American Samoa",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Argentina",
+   "confirmed": "63370"
+ },
+ {
+   "CNTRYNAME": "Australia",
+   "confirmed": "190657"
+ },
+ {
+   "CNTRYNAME": "Austria",
+   "confirmed": "425353"
+ },
+ {
+   "CNTRYNAME": "Anguilla",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Antarctica",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Bahrain",
+   "confirmed": "42466"
+ },
+ {
+   "CNTRYNAME": "Barbados",
+   "confirmed": "1926"
+ },
+ {
+   "CNTRYNAME": "Botswana",
+   "confirmed": "331"
+ },
+ {
+   "CNTRYNAME": "Bermuda",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Belgium",
+   "confirmed": "846115"
+ },
+ {
+   "CNTRYNAME": "Bahamas, The",
+   "confirmed": "1276"
+ },
+ {
+   "CNTRYNAME": "Bangladesh",
+   "confirmed": "38268"
+ },
+ {
+   "CNTRYNAME": "Belize",
+   "confirmed": "339"
+ },
+ {
+   "CNTRYNAME": "Bosnia and Herzegovina",
+   "confirmed": "28134"
+ },
+ {
+   "CNTRYNAME": "Bolivia",
+   "confirmed": "10189"
+ },
+ {
+   "CNTRYNAME": "Myanmar (Burma)",
+   "confirmed": "1720"
+ },
+ {
+   "CNTRYNAME": "Benin",
+   "confirmed": "926"
+ },
+ {
+   "CNTRYNAME": "Byelarus",
+   "confirmed": "89307"
+ },
+ {
+   "CNTRYNAME": "Solomon Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Brazil",
+   "confirmed": "714985"
+ },
+ {
+   "CNTRYNAME": "Bhutan",
+   "confirmed": "178"
+ },
+ {
+   "CNTRYNAME": "Bulgaria",
+   "confirmed": "22351"
+ },
+ {
+   "CNTRYNAME": "Bouvet Island",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Brunei",
+   "confirmed": "5087"
+ },
+ {
+   "CNTRYNAME": "Burundi",
+   "confirmed": "130"
+ },
+ {
+   "CNTRYNAME": "Canada",
+   "confirmed": "724244"
+ },
+ {
+   "CNTRYNAME": "Cambodia",
+   "confirmed": "4232"
+ },
+ {
+   "CNTRYNAME": "Chad",
+   "confirmed": "563"
+ },
+ {
+   "CNTRYNAME": "Sri Lanka",
+   "confirmed": "7530"
+ },
+ {
+   "CNTRYNAME": "Congo",
+   "confirmed": "2482"
+ },
+ {
+   "CNTRYNAME": "Zaire",
+   "confirmed": "6846"
+ },
+ {
+   "CNTRYNAME": "China",
+   "confirmed": "6267268"
+ },
+ {
+   "CNTRYNAME": "Chile",
+   "confirmed": "209760"
+ },
+ {
+   "CNTRYNAME": "Cayman Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Cocos (Keeling) Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Cameroon",
+   "confirmed": "22869"
+ },
+ {
+   "CNTRYNAME": "Comoros",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Colombia",
+   "confirmed": "78015"
+ },
+ {
+   "CNTRYNAME": "Northern Mariana Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Costa Rica",
+   "confirmed": "17324"
+ },
+ {
+   "CNTRYNAME": "Central African Republic",
+   "confirmed": "297"
+ },
+ {
+   "CNTRYNAME": "Cuba",
+   "confirmed": "19295"
+ },
+ {
+   "CNTRYNAME": "Cape Verde",
+   "confirmed": "908"
+ },
+ {
+   "CNTRYNAME": "Cook Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Cyprus",
+   "confirmed": "17766"
+ },
+ {
+   "CNTRYNAME": "Denmark",
+   "confirmed": "190994"
+ },
+ {
+   "CNTRYNAME": "Djibouti",
+   "confirmed": "11112"
+ },
+ {
+   "CNTRYNAME": "Dominica",
+   "confirmed": "459"
+ },
+ {
+   "CNTRYNAME": "Jarvis Island",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Dominican Republic",
+   "confirmed": "89604"
+ },
+ {
+   "CNTRYNAME": "Ecuador",
+   "confirmed": "217804"
+ },
+ {
+   "CNTRYNAME": "Egypt",
+   "confirmed": "65379"
+ },
+ {
+   "CNTRYNAME": "Ireland",
+   "confirmed": "289517"
+ },
+ {
+   "CNTRYNAME": "Equatorial Guinea",
+   "confirmed": "1536"
+ },
+ {
+   "CNTRYNAME": "Estonia",
+   "confirmed": "40123"
+ },
+ {
+   "CNTRYNAME": "Eritrea",
+   "confirmed": "897"
+ },
+ {
+   "CNTRYNAME": "El Salvador",
+   "confirmed": "3751"
+ },
+ {
+   "CNTRYNAME": "Ethiopia",
+   "confirmed": "2127"
+ },
+ {
+   "CNTRYNAME": "Czech Republic",
+   "confirmed": "172371"
+ },
+ {
+   "CNTRYNAME": "French Guiana",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Finland",
+   "confirmed": "88980"
+ },
+ {
+   "CNTRYNAME": "Fiji",
+   "confirmed": "421"
+ },
+ {
+   "CNTRYNAME": "Falkland Islands (Islas Malvinas)",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Federated States of Micronesia",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Faroe Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "French Polynesia",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Baker Island",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "France",
+   "confirmed": "3301886"
+ },
+ {
+   "CNTRYNAME": "French Southern & Antarctic Lands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Gambia, The",
+   "confirmed": "217"
+ },
+ {
+   "CNTRYNAME": "Gabon",
+   "confirmed": "2015"
+ },
+ {
+   "CNTRYNAME": "Georgia",
+   "confirmed": "8477"
+ },
+ {
+   "CNTRYNAME": "Ghana",
+   "confirmed": "16659"
+ },
+ {
+   "CNTRYNAME": "Gibraltar",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Grenada",
+   "confirmed": "386"
+ },
+ {
+   "CNTRYNAME": "Guernsey",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Greenland",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Germany",
+   "confirmed": "3730695"
+ },
+ {
+   "CNTRYNAME": "Glorioso Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Guadeloupe",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Guam",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Greece",
+   "confirmed": "64942"
+ },
+ {
+   "CNTRYNAME": "Guatemala",
+   "confirmed": "4929"
+ },
+ {
+   "CNTRYNAME": "Guinea",
+   "confirmed": "9814"
+ },
+ {
+   "CNTRYNAME": "Guyana",
+   "confirmed": "1321"
+ },
+ {
+   "CNTRYNAME": "Gaza Strip",
+   "confirmed": "9480"
+ },
+ {
+   "CNTRYNAME": "Haiti",
+   "confirmed": "1078"
+ },
+ {
+   "CNTRYNAME": "Heard Island & McDonald Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Honduras",
+   "confirmed": "10629"
+ },
+ {
+   "CNTRYNAME": "Howland Island",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Croatia",
+   "confirmed": "45814"
+ },
+ {
+   "CNTRYNAME": "Hungary",
+   "confirmed": "39136"
+ },
+ {
+   "CNTRYNAME": "Iceland",
+   "confirmed": "52469"
+ },
+ {
+   "CNTRYNAME": "Indonesia",
+   "confirmed": "129562"
+ },
+ {
+   "CNTRYNAME": "Man, Isle of",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "India",
+   "confirmed": "301355"
+ },
+ {
+   "CNTRYNAME": "British Indian Ocean Territory",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Iran",
+   "confirmed": "2320567"
+ },
+ {
+   "CNTRYNAME": "Israel",
+   "confirmed": "315105"
+ },
+ {
+   "CNTRYNAME": "Italy",
+   "confirmed": "5131965"
+ },
+ {
+   "CNTRYNAME": "Ivory Coast",
+   "confirmed": "15975"
+ },
+ {
+   "CNTRYNAME": "Iraq",
+   "confirmed": "39180"
+ },
+ {
+   "CNTRYNAME": "Japan",
+   "confirmed": "213260"
+ },
+ {
+   "CNTRYNAME": "Jersey",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Jamaica",
+   "confirmed": "3497"
+ },
+ {
+   "CNTRYNAME": "Jan Mayen",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Jordan",
+   "confirmed": "11988"
+ },
+ {
+   "CNTRYNAME": "Johnston Atoll",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Juan De Nova Island",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Kenya",
+   "confirmed": "5761"
+ },
+ {
+   "CNTRYNAME": "Kyrgyzstan",
+   "confirmed": "10287"
+ },
+ {
+   "CNTRYNAME": "North Korea",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Kiribati",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "South Korea",
+   "confirmed": "518723"
+ },
+ {
+   "CNTRYNAME": "Christmas Island",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Kuwait",
+   "confirmed": "38126"
+ },
+ {
+   "CNTRYNAME": "Kazakhstan",
+   "confirmed": "33036"
+ },
+ {
+   "CNTRYNAME": "Laos",
+   "confirmed": "458"
+ },
+ {
+   "CNTRYNAME": "Lebanon",
+   "confirmed": "20556"
+ },
+ {
+   "CNTRYNAME": "Latvia",
+   "confirmed": "19253"
+ },
+ {
+   "CNTRYNAME": "Lithuania",
+   "confirmed": "30118"
+ },
+ {
+   "CNTRYNAME": "Liberia",
+   "confirmed": "1426"
+ },
+ {
+   "CNTRYNAME": "Slovakia",
+   "confirmed": "24772"
+ },
+ {
+   "CNTRYNAME": "Liechtenstein",
+   "confirmed": "2655"
+ },
+ {
+   "CNTRYNAME": "Lesotho",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Luxembourg",
+   "confirmed": "97781"
+ },
+ {
+   "CNTRYNAME": "Libya",
+   "confirmed": "908"
+ },
+ {
+   "CNTRYNAME": "Madagascar",
+   "confirmed": "2778"
+ },
+ {
+   "CNTRYNAME": "Martinique",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Macau",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Moldova",
+   "confirmed": "46850"
+ },
+ {
+   "CNTRYNAME": "Mayotte",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Mongolia",
+   "confirmed": "744"
+ },
+ {
+   "CNTRYNAME": "Montserrat",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Malawi",
+   "confirmed": "349"
+ },
+ {
+   "CNTRYNAME": "Macedonia",
+   "confirmed": "24446"
+ },
+ {
+   "CNTRYNAME": "Mali",
+   "confirmed": "3811"
+ },
+ {
+   "CNTRYNAME": "Monaco",
+   "confirmed": "2566"
+ },
+ {
+   "CNTRYNAME": "Morocco",
+   "confirmed": "54444"
+ },
+ {
+   "CNTRYNAME": "Mauritius",
+   "confirmed": "8091"
+ },
+ {
+   "CNTRYNAME": "Midway Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Mauritania",
+   "confirmed": "213"
+ },
+ {
+   "CNTRYNAME": "Malta",
+   "confirmed": "10522"
+ },
+ {
+   "CNTRYNAME": "Oman",
+   "confirmed": "23124"
+ },
+ {
+   "CNTRYNAME": "Maldives",
+   "confirmed": "1372"
+ },
+ {
+   "CNTRYNAME": "Montenegro",
+   "confirmed": "7283"
+ },
+ {
+   "CNTRYNAME": "Mexico",
+   "confirmed": "141891"
+ },
+ {
+   "CNTRYNAME": "Malaysia",
+   "confirmed": "143845"
+ },
+ {
+   "CNTRYNAME": "Mozambique",
+   "confirmed": "738"
+ },
+ {
+   "CNTRYNAME": "New Caledonia",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Niue",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Norfolk Island",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Niger",
+   "confirmed": "11664"
+ },
+ {
+   "CNTRYNAME": "Vanuatu",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Nigeria",
+   "confirmed": "12549"
+ },
+ {
+   "CNTRYNAME": "Netherlands",
+   "confirmed": "755972"
+ },
+ {
+   "CNTRYNAME": "Norway",
+   "confirmed": "213545"
+ },
+ {
+   "CNTRYNAME": "Nepal",
+   "confirmed": "612"
+ },
+ {
+   "CNTRYNAME": "Nauru",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Suriname",
+   "confirmed": "338"
+ },
+ {
+   "CNTRYNAME": "Netherlands Antilles",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Nicaragua",
+   "confirmed": "236"
+ },
+ {
+   "CNTRYNAME": "New Zealand",
+   "confirmed": "35128"
+ },
+ {
+   "CNTRYNAME": "Paraguay",
+   "confirmed": "4392"
+ },
+ {
+   "CNTRYNAME": "Pitcairn Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Peru",
+   "confirmed": "260333"
+ },
+ {
+   "CNTRYNAME": "Paracel Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Spratly Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Pakistan",
+   "confirmed": "171799"
+ },
+ {
+   "CNTRYNAME": "Poland",
+   "confirmed": "190200"
+ },
+ {
+   "CNTRYNAME": "Panama",
+   "confirmed": "89273"
+ },
+ {
+   "CNTRYNAME": "Portugal",
+   "confirmed": "458198"
+ },
+ {
+   "CNTRYNAME": "Papua New Guinea",
+   "confirmed": "111"
+ },
+ {
+   "CNTRYNAME": "Pacific Islands (Palau)",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Guinea-Bissau",
+   "confirmed": "932"
+ },
+ {
+   "CNTRYNAME": "Qatar",
+   "confirmed": "107703"
+ },
+ {
+   "CNTRYNAME": "Reunion",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Marshall Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Romania",
+   "confirmed": "179496"
+ },
+ {
+   "CNTRYNAME": "Philippines",
+   "confirmed": "135205"
+ },
+ {
+   "CNTRYNAME": "Puerto Rico",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Russia",
+   "confirmed": "674170"
+ },
+ {
+   "CNTRYNAME": "Rwanda",
+   "confirmed": "3766"
+ },
+ {
+   "CNTRYNAME": "Saudi Arabia",
+   "confirmed": "173797"
+ },
+ {
+   "CNTRYNAME": "St. Pierre and Miquelon",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "St. Kitts and Nevis",
+   "confirmed": "335"
+ },
+ {
+   "CNTRYNAME": "Seychelles",
+   "confirmed": "381"
+ },
+ {
+   "CNTRYNAME": "South Africa",
+   "confirmed": "72885"
+ },
+ {
+   "CNTRYNAME": "Senegal",
+   "confirmed": "9424"
+ },
+ {
+   "CNTRYNAME": "St. Helena",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Slovenia",
+   "confirmed": "38161"
+ },
+ {
+   "CNTRYNAME": "Sierra Leone",
+   "confirmed": "591"
+ },
+ {
+   "CNTRYNAME": "San Marino",
+   "confirmed": "12757"
+ },
+ {
+   "CNTRYNAME": "Singapore",
+   "confirmed": "127265"
+ },
+ {
+   "CNTRYNAME": "Somalia",
+   "confirmed": "2716"
+ },
+ {
+   "CNTRYNAME": "Spain",
+   "confirmed": "4959878"
+ },
+ {
+   "CNTRYNAME": "Serbia",
+   "confirmed": "109891"
+ },
+ {
+   "CNTRYNAME": "St. Lucia",
+   "confirmed": "429"
+ },
+ {
+   "CNTRYNAME": "Sudan",
+   "confirmed": "1415"
+ },
+ {
+   "CNTRYNAME": "Svalbard",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Sweden",
+   "confirmed": "323503"
+ },
+ {
+   "CNTRYNAME": "South Georgia and the South Sandwich Is",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Syria",
+   "confirmed": "758"
+ },
+ {
+   "CNTRYNAME": "Switzerland",
+   "confirmed": "776513"
+ },
+ {
+   "CNTRYNAME": "United Arab Emirates",
+   "confirmed": "124641"
+ },
+ {
+   "CNTRYNAME": "Trinidad and Tobago",
+   "confirmed": "3493"
+ },
+ {
+   "CNTRYNAME": "Thailand",
+   "confirmed": "76965"
+ },
+ {
+   "CNTRYNAME": "Tajikistan",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Turks and Caicos Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Tokelau",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Tonga",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Togo",
+   "confirmed": "2071"
+ },
+ {
+   "CNTRYNAME": "Sao Tome and Principe",
+   "confirmed": "80"
+ },
+ {
+   "CNTRYNAME": "Tunisia",
+   "confirmed": "20667"
+ },
+ {
+   "CNTRYNAME": "Turkey",
+   "confirmed": "1582146"
+ },
+ {
+   "CNTRYNAME": "Tuvalu",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Taiwan",
+   "confirmed": "14288"
+ },
+ {
+   "CNTRYNAME": "Turkmenistan",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Tanzania, United Republic of",
+   "confirmed": "2881"
+ },
+ {
+   "CNTRYNAME": "Uganda",
+   "confirmed": "1607"
+ },
+ {
+   "CNTRYNAME": "United Kingdom",
+   "confirmed": "2393059"
+ },
+ {
+   "CNTRYNAME": "Ukraine",
+   "confirmed": "93177"
+ },
+ {
+   "CNTRYNAME": "United States",
+   "confirmed": "15530314"
+ },
+ {
+   "CNTRYNAME": "Burkina Faso",
+   "confirmed": "13940"
+ },
+ {
+   "CNTRYNAME": "Uruguay",
+   "confirmed": "14557"
+ },
+ {
+   "CNTRYNAME": "Uzbekistan",
+   "confirmed": "26362"
+ },
+ {
+   "CNTRYNAME": "St. Vincent and the Grenadines",
+   "confirmed": "271"
+ },
+ {
+   "CNTRYNAME": "Venezuela",
+   "confirmed": "6494"
+ },
+ {
+   "CNTRYNAME": "British Virgin Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Vietnam",
+   "confirmed": "9358"
+ },
+ {
+   "CNTRYNAME": "Virgin Islands",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Namibia",
+   "confirmed": "489"
+ },
+ {
+   "CNTRYNAME": "West Bank",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Wallis and Futuna",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Western Sahara",
+   "confirmed": "112"
+ },
+ {
+   "CNTRYNAME": "Wake Island",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Western Samoa",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "Swaziland",
+   "confirmed": "532"
+ },
+ {
+   "CNTRYNAME": "Yemen",
+   "confirmed": "16"
+ },
+ {
+   "CNTRYNAME": "Zambia",
+   "confirmed": "1474"
+ },
+ {
+   "CNTRYNAME": "Zimbabwe",
+   "confirmed": "504"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "Sum "
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "558"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "19290"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "55923"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "28671"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "14113"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "31191"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "18181"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "515"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "63370"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "190657"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "425353"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "42466"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1926"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "331"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "846115"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1276"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "38268"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "339"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "28134"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "10189"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1720"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "926"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "89307"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "714985"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "178"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "22351"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "5087"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "130"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "724244"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "4232"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "563"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "7530"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2482"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "6846"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "6267268"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "209760"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "22869"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "78015"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "17324"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "297"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "19295"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "908"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "17766"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "190994"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "11112"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "459"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "89604"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "217804"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "65379"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "289517"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1536"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "40123"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "897"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3751"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2127"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "172371"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "88980"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "421"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3301886"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "217"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2015"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "8477"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "16659"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "386"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3730695"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "64942"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "4929"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "9814"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1321"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "9480"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1078"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "10629"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "45814"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "39136"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "52469"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "129562"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "301355"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2320567"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "315105"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "5131965"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "15975"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "39180"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "213260"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3497"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "11988"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "5761"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "10287"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "518723"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "38126"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "33036"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "458"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "20556"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "19253"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "30118"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1426"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "24772"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2655"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "97781"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "908"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2778"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "46850"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "744"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "349"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "24446"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3811"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2566"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "54444"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "8091"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "213"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "10522"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "23124"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1372"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "7283"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "141891"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "143845"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "738"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "11664"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "12549"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "755972"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "213545"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "612"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "338"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "236"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "35128"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "4392"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "260333"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "171799"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "190200"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "89273"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "458198"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "111"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "932"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "107703"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "179496"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "135205"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "674170"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3766"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "173797"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "335"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "381"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "72885"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "9424"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "38161"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "591"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "12757"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "127265"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2716"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "4959878"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "109891"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "429"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1415"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "323503"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "758"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "776513"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "124641"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3493"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "76965"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2071"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "80"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "20667"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1582146"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "14288"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2881"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1607"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2393059"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "93177"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "15530314"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "13940"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "14557"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "26362"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "271"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "6494"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "9358"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "489"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "112"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "532"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "16"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1474"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "504"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": ""
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "Sum "
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "558"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "19290"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "55923"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "28671"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "14113"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "31191"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "18181"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "515"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "63370"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "190657"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "425353"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "42466"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1926"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "331"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "846115"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1276"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "38268"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "339"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "28134"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "10189"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1720"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "926"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "89307"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "714985"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "178"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "22351"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "5087"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "130"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "724244"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "4232"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "563"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "7530"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2482"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "6846"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "6267268"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "209760"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "22869"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "78015"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "17324"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "297"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "19295"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "908"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "17766"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "190994"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "11112"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "459"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "89604"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "217804"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "65379"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "289517"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1536"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "40123"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "897"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3751"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2127"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "172371"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "88980"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "421"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3301886"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "217"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2015"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "8477"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "16659"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "386"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3730695"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "64942"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "4929"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "9814"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1321"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "9480"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1078"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "10629"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "45814"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "39136"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "52469"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "129562"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "301355"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2320567"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "315105"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "5131965"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "15975"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "39180"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "213260"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3497"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "11988"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "5761"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "10287"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "518723"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "38126"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "33036"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "458"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "20556"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "19253"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "30118"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1426"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "24772"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2655"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "97781"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "908"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2778"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "46850"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "744"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "349"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "24446"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3811"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2566"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "54444"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "8091"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "213"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "10522"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "23124"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1372"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "7283"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "141891"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "143845"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "738"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "11664"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "12549"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "755972"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "213545"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "612"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "338"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "236"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "35128"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "4392"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "260333"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "171799"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "190200"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "89273"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "458198"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "111"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "932"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "107703"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "179496"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "135205"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "674170"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3766"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "173797"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "335"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "381"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "72885"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "9424"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "38161"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "591"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "12757"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "127265"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2716"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "4959878"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "109891"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "429"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1415"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "323503"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "758"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "776513"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "124641"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "3493"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "76965"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2071"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "80"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "20667"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1582146"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "14288"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2881"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1607"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "2393059"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "93177"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "15530314"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "13940"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "14557"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "26362"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "271"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "6494"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "9358"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "489"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "112"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "0"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "532"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "16"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "1474"
+ },
+ {
+   "CNTRYNAME": "",
+   "confirmed": "504"
+ }
+]
